@@ -1,6 +1,5 @@
 #Clinton Crewe
 #October - 20 - 2022
-#SAIT CRPG216
 #A program to calculate the daily profit for Circle Phones.
 
 
